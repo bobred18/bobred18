@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="media/title-dark.svg">
-    <img src="media/title-light.svg" alt="Jakub Cisło, software engineer: full-stack, LLM agents, games. “I am part of that power which eternally wills evil and eternally works good.” (Mephistopheles, in Goethe’s Faust)" width="100%">
+    <img src="media/title-light.svg" alt="Jakub Cisło — Software engineer / Full-stack / LLM agents / Games" width="100%">
   </picture>
 </p>
 
